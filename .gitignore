@@ -1,5 +1,11 @@
 *.class
-
+work
+*target
+.settings
+rebel.xml
+.project
+.classpath
+*~
 # Package Files #
 *.jar
 *.war

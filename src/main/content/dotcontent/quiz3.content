@@ -1,0 +1,5 @@
+id:.example
+major:article
+inputtemplate:quiz3
+securityparent:p.siteengine.Sites.d
+name:Quiz 3
